@@ -1,4 +1,4 @@
-# AsyncImage Demo
+# SwiftUI AsyncImage Demo
 
 This little demo works both to demonstrate and test behavior of the
 new `AsyncImage` view in SwiftUI available in Xcode 13.
